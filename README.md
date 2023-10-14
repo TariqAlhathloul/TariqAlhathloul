@@ -6,7 +6,7 @@
 - ## Skills
 - **Programming Languages:** [Java, C++, Python]
 - **Tools:** [Xcode, intellij idea, Git]
-- Feel free to explore my projects and repositories. If you have any questions or want to collaborate, feel free to get in touch!
+- Feel free to explore my repositories. If you have any questions or want to collaborate, feel free to get in touch!
 
 <!---
 TariqAlhathloul/TariqAlhathloul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
