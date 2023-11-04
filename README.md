@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TariqAlhathloul
 - 👀 I’m interested in  Computer Science
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on desktop development
 - 📫 How to reach me +966507501678
 - ## Skills
 - **Programming Languages:** [Java, C++, Python]
